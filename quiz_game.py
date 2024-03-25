@@ -57,7 +57,7 @@ if answer8.lower() == "leningrad":
     score+=1
 else: print("Incorrect!")
 
-answer9 = input("Who is the current leader of the country of Russia? (last name only, also lowercase!) ")
+answer9 = input("Who is the current leader of the country of Russia? ")
 if answer9.lower() == "putin":
     print("Correct!")
     score+=1
